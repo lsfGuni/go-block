@@ -1,0 +1,13 @@
+# Binaries for programs and executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool
+*.out
+
+# IDE or editor files
+.vscode/
+.idea/
